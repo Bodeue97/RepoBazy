@@ -1,0 +1,1 @@
+create table pielegniarka (ID_Pielegniarki INT PRIMARY KEY AUTO_INCREMENT NOT NULL, Imie varchar(255), Nazwisko varchar(255), Staz int);

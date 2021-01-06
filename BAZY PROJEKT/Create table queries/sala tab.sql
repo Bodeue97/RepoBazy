@@ -1,0 +1,1 @@
+create table sala (ID_Sali int PRIMARY KEY AUTO_INCREMENT NOT NULL, ilosc_lozek int, Telewizor TINYINT(1));

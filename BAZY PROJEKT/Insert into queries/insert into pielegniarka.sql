@@ -1,0 +1,14 @@
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Aneta', 'Żyleta', 3);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Beata', 'Nowak', 2);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Żaneta', 'Kowalska', 5);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Anna', 'Wiśniewska', 4);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Edyta', 'Wójcik', 7);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Gabriela', 'Kowalczyk', 2);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Aleksandra', 'Kamińska', 1);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Helena', 'Lewandowska', 10);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Hermenegilda', 'Zielińska', 8);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Iga', 'Szymańska', 9);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Inga', 'Dąbrowska', 0);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Iwona', 'Wozniak', 2);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Martyna', 'Kozłowska', 5);
+insert into pielegniarka (Imie, Nazwisko, Staz) values ('Monika', 'Mazur', 6);

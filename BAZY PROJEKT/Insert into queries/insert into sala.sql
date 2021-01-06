@@ -1,0 +1,12 @@
+insert into sala (Ilosc_lozek, Telewizor) values (2, 0);
+insert into sala (Ilosc_lozek, Telewizor) values (3, 1);
+insert into sala (Ilosc_lozek, Telewizor) values (5, 1);
+insert into sala (Ilosc_lozek, Telewizor) values (2, 0);
+insert into sala (Ilosc_lozek, Telewizor) values (2, 0);
+insert into sala (Ilosc_lozek, Telewizor) values (3, 1);
+insert into sala (Ilosc_lozek, Telewizor) values (6, 1);
+insert into sala (Ilosc_lozek, Telewizor) values (4, 1);
+insert into sala (Ilosc_lozek, Telewizor) values (6, 0);
+insert into sala (Ilosc_lozek, Telewizor) values (2, 0);
+insert into sala (Ilosc_lozek, Telewizor) values (3, 0);
+insert into sala (Ilosc_lozek, Telewizor) values (1, 1);

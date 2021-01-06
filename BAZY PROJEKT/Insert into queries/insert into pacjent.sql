@@ -1,0 +1,12 @@
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (46030967238, 'Andrzej', 'Nowak', 'A', 2, 5);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (78111149291, 'Bartosz', 'Dąbrowski', 'AB', 5, 3);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (88050941351, 'Artur', 'Wiśniewski', 'B', 4, 7);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (87032962173, 'Cezary', 'Kowalski', 'AB', 4, 3);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (66090178957, 'Damian', 'Krawczyk', 'B', 2, 8);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (99041771657, 'Ignacy', 'Wojciechowski', 'B', 7, 2);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (55112557382, 'Marzena', 'Grabowska', '0', 8, 4);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (57061231843, 'Teresa', 'Stępień', 'A', 4, 9);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (03231412927, 'Sylwia', 'Malinowska', 'AB', 1, 2);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (73060651589, 'Róża', 'Dudek', 'A', 7, 11);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (00302839445, 'Patrycja', 'Nowicka', 'A', 8, 10);
+insert into pacjent (PESEL, Imie, Nazwisko, GKrwi, ID_Sali, ID_Pielegniarki) values (77022065623, 'Nikola', 'Górska', 'B', 5, 10);

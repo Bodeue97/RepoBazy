@@ -1,0 +1,1 @@
+create table pacjent (PESEL VARCHAR(11) PRIMARY KEY, Imie varchar(255), Nazwisko varchar(255), GKrwi varchar(2), ID_Sali int, ID_Pielegniarki int, FOREIGN KEY (ID_Sali) REFERENCES sala(ID_Sali), FOREIGN KEY (ID_Pielegniarki) REFERENCES pielegniarka(ID_Pielegniarki));

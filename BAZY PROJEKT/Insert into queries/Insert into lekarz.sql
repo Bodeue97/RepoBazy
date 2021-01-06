@@ -1,0 +1,12 @@
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Andrzej', 'Kroje', 'Chirurg');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Paweł', 'Rak', 'Onkolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Stefan', 'Nieboli', 'Anestozjolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Marcin', 'Serdeczny', 'Kardiolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Aleksander', 'Raczek', 'Onkolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Eugeniusz', 'Ciachacz', 'Chirurg');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Rafał', 'Nóżka', 'Ortopeda');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Andrzej', 'Bałwan', 'Anestozjolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Bogdan', 'Mózgociach', 'Neurochirurg');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Szymon', 'Główka', 'Neurolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Tomasz', 'Bańka', 'Neurolog');
+insert into lekarz (Imie, Nazwisko, Specjalizacja) values ('Jakub', 'Wędrowycz', 'Egzorcysta');

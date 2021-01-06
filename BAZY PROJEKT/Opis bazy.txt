@@ -1,0 +1,1 @@
+Baza ma przechowywać dane na temat pacjentów, lekarzy, pielęgniarek i sal na oddziale szpitalnym oraz umożliwić wyświetlenie informacji na ich temat w różnych konfiguracjach.

@@ -1,0 +1,12 @@
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (11, 3);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (1, 2);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (4, 7);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (6, 5);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (8, 9);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (3, 11);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (9, 12);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (10, 7);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (2, 3);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (4, 9);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (3, 5);
+insert into lekarz_sala (ID_Lekarza, ID_Sali) values (7, 7);
